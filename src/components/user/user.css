@@ -1,0 +1,25 @@
+.user {
+	background-color: rebeccapurple;
+	width: 450px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	padding: 15px;
+	margin: 15px;
+	color: #fff;
+	box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.75);
+	border-radius: 5px;
+}
+.user img {
+	width: 115px;
+	height: 115px;
+	border-radius: 50%;
+	margin: auto;
+}
+.user button > img {
+	width: 25px;
+	height: 25px;
+}
+.user button {
+	cursor: pointer;
+}

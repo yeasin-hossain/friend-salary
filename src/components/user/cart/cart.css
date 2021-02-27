@@ -1,0 +1,10 @@
+.total__salary {
+	border-top: 1px solid gray;
+}
+.Cart {
+	width: 30%;
+	padding: 15px;
+	position: fixed;
+	right: 0;
+	top: 0;
+}
